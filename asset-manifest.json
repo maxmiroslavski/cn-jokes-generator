@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cn-jokes-generator/static/css/main.9fdb4ba8.css",
+    "main.js": "/cn-jokes-generator/static/js/main.ad664cf0.js",
+    "static/media/chuck.png": "/cn-jokes-generator/static/media/chuck.79e6c97ed17cd7e0acc7.png",
+    "index.html": "/cn-jokes-generator/index.html",
+    "main.9fdb4ba8.css.map": "/cn-jokes-generator/static/css/main.9fdb4ba8.css.map",
+    "main.ad664cf0.js.map": "/cn-jokes-generator/static/js/main.ad664cf0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fdb4ba8.css",
+    "static/js/main.ad664cf0.js"
+  ]
+}
